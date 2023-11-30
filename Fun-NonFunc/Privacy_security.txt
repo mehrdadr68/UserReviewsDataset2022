@@ -1,0 +1,58 @@
+privacy
+ethical
+encrypt
+decrypt
+hide
+authenticate
+auth
+authentication
+authorize
+lock
+biometric
+biometrics
+fingerprint
+finger
+permission
+pattern
+log
+expire
+session
+pin code
+pin
+pass code
+passcode
+sign
+try
+username
+attempt
+login
+password
+passcode
+pass
+fingerprint
+face
+code
+account
+refuse
+location
+attack
+hack
+security
+secure
+unsecure
+root
+trust
+spam
+xposed
+supersu
+superuser
+super user
+kinguser
+king user
+kingoroot
+kingroot
+king root
+kingo root
+spy
+credential
+credentials

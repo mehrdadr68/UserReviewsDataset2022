@@ -1,0 +1,56 @@
+compatibility
+android
+compatible
+version
+cupcake
+donut
+eclair
+froyo
+gingerbread
+honeycomb
+honey comb
+icecreamsandwich
+ice cream sandwitch
+jelly bean
+jellybean
+kitkat
+lolipop
+marshmallow
+nougat
+oreo
+pie
+samsung
+huawei
+oppo
+lenovo
+xiaomi
+techno
+poco
+nokia
+honor
+galaxy
+mi
+miui
+mediatek
+qualcomm
+spd
+spreadthrum
+mtk
+helio
+allwinner
+all winner
+exynos
+chipset
+acer
+iconia
+asus
+zenfone
+cyanogen
+lineageos
+motorola
+droid
+razor
+moto
+blackberry
+bbos
+lg

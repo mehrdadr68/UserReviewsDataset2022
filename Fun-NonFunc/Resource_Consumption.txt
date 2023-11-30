@@ -1,0 +1,42 @@
+resource
+heavy
+drain
+ruin
+space
+cpu
+speed
+battery
+cpu
+processor
+storage
+space
+memory
+ram
+sdcard
+sd
+card
+memorycard
+memory card
+disk
+cpu usage
+storage usage
+memory usage
+battery drain
+cpu usage
+high data
+resource
+cache
+ext sd
+battery life
+low battery
+diskusage
+disk
+power
+location
+database
+camera
+sound
+speaker
+buzzer
+microphone
+waste
